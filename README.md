@@ -11,7 +11,8 @@ The game follows simple rules:
 🐱 The cat chases the mouse
 🐭 The mouse scares the elephant
 
-Choose one of the animals – the computer picks randomly – and see who wins!
+Pick one of the animals — the computer will randomly choose its own — and see who comes out on top!
+First to 10 points wins the game!
 
 Technology
 Language: Python
